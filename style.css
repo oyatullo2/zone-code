@@ -4,7 +4,9 @@
     color: black;
 }
 body{
-    background-color:#141A2D;
+    background-image: url(./5217518789804021759_121.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
     margin: 0px;
     padding: 0px;
 }
@@ -143,7 +145,7 @@ header a{
     width: 370px;
     height: 336px;
     color: white;
-    backdrop-filter: blur(50px);
+    backdrop-filter: blur(10px);
     box-shadow: 0px 0px 18px 0px rgba(0, 0, 0, 0.5);
     border-radius: 34px;    
     border: 1px solid rgba(255, 255, 255, 0.08) ;
@@ -227,7 +229,7 @@ header a{
     width: 370px;
     height: 336px;
     color: white;
-    backdrop-filter: blur(50px);
+    backdrop-filter: blur(10px);
     box-shadow: 0px 0px 18px 0px rgba(0, 0, 0, 0.5);
     border-radius: 34px;    
     border: 1px solid rgba(255, 255, 255, 0.08) ;
@@ -275,7 +277,7 @@ header a{
     width: 370px;
     height: 336px;
     color: white;
-    backdrop-filter: blur(50px);
+    backdrop-filter: blur(10px);
     box-shadow: 0px 0px 18px 0px rgba(0, 0, 0, 0.5);
     border-radius: 34px;    
     border: 1px solid rgba(255, 255, 255, 0.08) ;
@@ -328,7 +330,7 @@ header a{
     width: 370px;
     height: 336px;
     color: white;
-    backdrop-filter: blur(50px);
+    backdrop-filter: blur(10px);
     box-shadow: 0px 0px 18px 0px rgba(0, 0, 0, 0.5);
     border-radius: 34px;    
     border: 1px solid rgba(255, 255, 255, 0.08) ;
@@ -376,7 +378,7 @@ header a{
     width: 370px;
     height: 336px;
     color: white;
-    backdrop-filter: blur(50px);
+    backdrop-filter: blur(10px);
     box-shadow: 0px 0px 18px 0px rgba(0, 0, 0, 0.5);
     border-radius: 34px;    
     border: 1px solid rgba(255, 255, 255, 0.08) ;
@@ -424,7 +426,7 @@ header a{
     width: 370px;
     height: 336px;
     color: white;
-    backdrop-filter: blur(50px);
+    backdrop-filter: blur(10px);
     box-shadow: 0px 0px 18px 0px rgba(0, 0, 0, 0.5);
     border-radius: 34px;    
     border: 1px solid rgba(255, 255, 255, 0.08) ;
